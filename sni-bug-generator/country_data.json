@@ -1,0 +1,742 @@
+[
+  {
+    "Country": "Zimbabwe",
+    "ISP": "NetOne",
+    "SNI": [
+      "apps.netone.co.zw",
+      "autodiscover.netone.co.zw",
+      "bionemoney.netone.co.zw",
+      "mail.netone.co.zw",
+      "onecover.netone.co.zw",
+      "orgonemoney.netone.co.zw",
+      "sonemoney.netone.co.zw",
+      "vas.netone.co.zw",
+      "whatsapp.netone.co.zw",
+      "www.netone.co.zw"
+    ]
+  },
+  
+  {
+    "Country": "Zimbabwe",
+    "ISP": "Econet",
+    "SNI": [
+      "corporate.latamairlines.com",
+      "172.66.0.156",
+      "health.go.ug",
+      "oldlock.co.zw",
+      "www.selfcare.econet.co.zw",
+      "104.18.189.228",
+      "104.22.71.205",
+      "access.econet.co.zw",
+      "adservice.econet.co.zw",
+      "applications.econet.co.zw",
+      "autinmobi.econet.co.zw",
+      "autodiscover.econet.co.zw",
+      "av.econet.co.zw",
+      "b2bpayments.econet.co.zw",
+      "booking.econet.co.zw",
+      "buddiebeatz.econet.co.zw",
+      "buddievidz.econet.co.zw",
+      "bude.econet.co.zw",
+      "bulksms.econet.co.zw",
+      "callstatus.econet.co.zw",
+      "ceshhar.econet.co.zw",
+      "chatbot.econet.co.zw",
+      "customerfeedback.econet.co.zw",
+      "developer.econet.co.zw",
+      "devops.econet.co.zw",
+      "dialin.econet.co.zw",
+      "dsa.econet.co.zw",
+      "ecocash.econet.co.zw",
+      "ecocashapp.econet.co.zw",
+      "econetm2m.econet.co.zw",
+      "ecosure.econet.co.zw",
+      "ecosureapp.econet.co.zw",
+      "ecosureauto.econet.co.zw",
+      "ecosuregroups.econet.co.zw",
+      "ecosuregroupsapi.econet.co.zw",
+      "ecosuresalesapp.econet.co.zw",
+      "elevateyouth.econet.co.zw",
+      "epg.econet.co.zw",
+      "erecharge.econet.co.zw",
+      "ess.econet.co.zw",
+      "ewzexpresse.econet.co.zw",
+      "facilities.econet.co.zw",
+      "fleet360.econet.co.zw",
+      "gaiatest.econet.co.zw",
+      "healthcode.econet.co.zw",
+      "incmanagement.econet.co.zw",
+      "innovations.econet.co.zw",
+      "istechs.econet.co.zw",
+      "kavha.econet.co.zw",
+      "kyc.econet.co.zw",
+      "mail.econet.co.zw",
+      "mfi.econet.co.zw",
+      "mobileintelligence.econet.co.zw",
+      "mobilemessaging.econet.co.zw",
+      "mule.apps.econet.co.zw",
+      "mykidzhub.econet.co.zw",
+      "office.econet.co.zw",
+      "omnicontact.econet.co.zw",
+      "paida.econet.co.zw",
+      "payments.econet.co.zw",
+      "payonline.econet.co.zw",
+      "proximityapp.econet.co.zw",
+      "queuemanagement.econet.co.zw",
+      "recruitment.econet.co.zw",
+      "reporting.cent-cent.econet.co.zw",
+      "salesassist.econet.co.zw",
+      "sdp.api.econet.co.zw",
+      "sdp.web.econet.co.zw",
+      "selfcare.econet.co.zw",
+      "servicedesk.econet.co.zw",
+      "smsapi.econet.co.zw",
+      "speedtest.econet.co.zw",
+      "support.econet.co.zw",
+      "test-autinmobi.econet.co.zw",
+      "testwebrtc.econet.co.zw",
+      "travelpass.econet.co.zw",
+      "vansales.econet.co.zw",
+      "webbridge.econet.co.zw",
+      "webconf.econet.co.zw",
+      "wellness.econet.co.zw",
+      "www.econet.co.zw",
+      "www.mykidzhub.econet.co.zw",
+      "www.winners.econet.co.zw",
+      "xmpp.econet.co.zw",
+      "yogamezhub.econet.co.zw",
+      "yogamezhunt.econet.co.zw",
+      "yogamezpro.econet.co.zw"
+    ]
+  },  
+  
+  
+  {
+    "Country": "Algeria",
+    "ISP": "Random",
+    "SNI": [
+      "ensmm-algeria.dz",
+      "www.jwplayer.com",
+      "speedtest.ooredoo.dz",
+      "speedtest2.ooredoo.dz"
+    ]
+  },
+  
+  
+  
+  {
+    "Country": "Angola",
+    "ISP": "Africell",
+    "SNI": [
+      "91.220.208.64",
+      "www.mcexpress.emis.com",
+      "premierbetzone.com",
+      "care.africell.ao",
+      "support.canvas.snapchat.com",
+      "whatsapp.com",
+      "pagamentonline.emis.co.ao",
+      "spotify.com",
+      "fonts.googleapis.com",
+      "m.whatsapp.com"
+    ]
+  },
+  
+  {
+    "Country": "Angola",
+    "ISP": "Movicel",
+    "SNI": [
+      "internet.movicel.co.ao",
+      "162.159.128.79",
+      "movicel.co.ao",
+      "www.facebook.com",
+      "pagamentonline.emis.co.ao"
+    ]
+  },
+  
+  {
+    "Country": "Angola",
+    "ISP": "Angola Universities",
+    "SNI": [
+      "www.unikivi.com",
+      "www.isri.ac.mz",
+      "www.uon.ed.ao",
+      "www.fm.ukb.ed.ao",
+      "www.agostinhoneto.co.ao"
+    ]
+  },
+  
+  {
+    "Country": "Angola",
+    "ISP": "Unitel",
+    "SNI": [
+      "gn.total.com [v2ray]",
+      "support.canvas.snapchat.com",
+      "investors.spotify.com",
+      "spotify.com",
+      "3x3.unitel.ao",
+      "press.spotify.com",
+      "unitelmoney.ao",
+      "facebook.com [method v2ray]",
+      "pagamentonline.emis.co.ao",
+      "www.mcxexpress.emis.co.ao"
+    ]
+  },
+
+
+  {
+    "Country": "Botswana",
+    "ISP": "New ones",
+    "SNI": [
+      "www.greenshootsedu.co.za",
+      "sacoronavirus.co.za",
+      "www.gov.bw",
+      "www.sesigo.org.bw",
+      "online.mascom.bw",
+      "www.bou.ac.bw",
+      "botswana.bothouniversity.com",
+      "www.afro.who.int",
+      "www.bocra.org.bw",
+      "www.sadc.int",
+      "www.fnbbotswana.co.bw",
+      "www.who.int"
+    ]
+  },
+  
+  
+  {
+    "Country": "Cameroon",
+    "ISP": "MTN",
+    "SNI": [
+      "www.privateinternetaccess.com",
+      "yamo.mtn.cm",
+      "172.66.0.156",
+      "mmmm.edli.store",
+      "172.67.161.210:443",
+      "dropbox.com",
+      "paymentservices.payfort.com",
+      "itunes.apple.com"
+    ]
+  },
+  
+  
+  {
+    "Country": "Egypt",
+    "ISP": "Etisalat",
+    "SNI": [
+      "et.google.com",
+      "speedtest.net",
+      "static.xx.fbcdn.net",
+      "ptldynamic.play.etisalat.eg",
+      "presidency.eg",
+      "mada.almutakamila.ye"
+    ]
+  },
+  
+  {
+    "Country": "Egypt",
+    "ISP": "Zain",
+    "SNI": [
+      "emed.hakeem.jo",
+      "sd.zain.com",
+      "developers.giphy.com",
+      "54.38.215.7"
+    ]
+  },
+  
+  {
+    "Country": "Egypt",
+    "ISP": "Vodafone",
+    "SNI": [
+      "speedtest.net",
+      "33.tahirigime.online",
+      "sbsimulator.payfort.com",
+      "info.chunhomall.com",
+      "connectivitycheck.gstatic.com",
+      "188.214.122.14",
+      "info.chunhomall.com (port 443)",
+      "pokemonshowdown.com (v2ray)",
+      "checkout.payfort.com (v2ray)",
+      "notifications.payfort.com (v2ray)",
+      "company.chunhomall.com (v2ray)",
+      "presidency.eg (v2ray)",
+      "www.snapchat.com",
+      "c.whatsapp.net"
+    ]
+  },
+  
+  {
+    "Country": "Egypt",
+    "ISP": "Orange",
+    "SNI": [
+      "static.joox.com",
+      "myorange.orange.eg",
+      "speedtestob.orange.eg",
+      "services.orange.eg"
+    ]
+  },
+  
+  
+  {
+    "Country": "Ethiopia",
+    "ISP": "Safaricom",
+    "SNI": [
+      "chat.whatsapp.com",
+      "proxy.safaricom.com"
+    ]
+  },
+  
+  {
+    "Country": "Ethiopia",
+    "ISP": "Telecom",
+    "SNI": [
+      "app.ethiomobilemoney.et",
+      "197.156.74.22",
+      "108.181.30.195",
+      "104.18.8.127"
+    ]
+  },
+  
+  {
+    "Country": "Ethiopia",
+    "ISP": "MTN",
+    "SNI": [
+      "premium.outlook.com"
+    ]
+  },
+  
+  
+  {
+    "Country": "Ghana",
+    "ISP": "MTN",
+    "SNI": [
+      "auth.mtn.com.gh",
+      "xtratime.mtn.com.gh",
+      "moc.gov.gh",
+      "gis.gov.gh",
+      "moe.gov.gh",
+      "51.158.145.185",
+      "20.47.96.188",
+      "162.159.25.175"
+    ]
+  },
+  
+  {
+    "Country": "Ghana",
+    "ISP": "Vodafone",
+    "SNI": [
+      "zerod.mobi",
+      "smartofficial.dnsmicrossh.online",
+      "www.getepic.com",
+      "135.125.237.144",
+      "91.241.94.160",
+      "104.26.14.41"
+    ]
+  },
+  
+  {
+    "Country": "Ghana",
+    "ISP": "Telecel",
+    "SNI": [
+      "91.241.94.160",
+      "51.195.202.145",
+      "172.104.230.32"
+    ]
+  },
+  
+  {
+    "Country": "Ghana",
+    "ISP": "New ones",
+    "SNI": [
+      "edu.gh",
+      "scc.managebac.com",
+      "baka.eaxmaven.com",
+      "hammer.eaxmaven.com",
+      "www.snapchat.com",
+      "41.214.140.4:53",
+      "104.26.15.41"
+    ]
+  },
+  
+    
+  {
+    "Country": "Kenya",
+    "ISP": "Safaricom",
+    "SNI": [
+      "ligibet.co.ke",
+      "104.18.8.127",
+      "safaricom.zerod.live",
+      "coregateway.app.dlight.com",
+      "www.betika.com",
+      "shoponbloom.com"
+    ]
+  },
+  
+  {
+    "Country": "Kenya",
+    "ISP": "Airtel",
+    "SNI": [
+      "kycagile.airtelkenya.com",
+      "104.18.8.127",
+      "portal.ncnd.vodacom.co.tz",
+      "africanstorybook.org"
+    ]
+  },
+  
+  {
+    "Country": "Kenya",
+    "ISP": "Telkom",
+    "SNI": [
+      "simregapi.telkom.co.ke"
+    ]
+  },
+  
+  
+  {
+    "Country": "Morocco",
+    "ISP": "Telecom",
+    "SNI": [
+      "196.200.150.3",
+      "172.217.18.14"
+    ]
+  },
+  
+  {
+    "Country": "Morocco",
+    "ISP": "Inwi",
+    "SNI": [
+      "104.22.21.245",
+      "video-t-2.twimg.com",
+      "oem.twimg.com",
+      "app.snapchat.com",
+      "216.239.36.126",
+      "test.twimg.com",
+      "fastly-public-purge.twimg.com",
+      "102.219.85.101"
+    ]
+  },
+  
+  {
+    "Country": "Morocco",
+    "ISP": "Orange",
+    "SNI": [
+      "216.239.36.126",
+      "app.snapchat.com",
+      "41.214.140.5",
+      "mppkw.com",
+      "static.ads-twitter.com",
+      "162.159.135.86",
+      "151.101.134.219"
+    ]
+  },
+  
+  
+  {
+    "Country": "Mozambique",
+    "ISP": "New ones",
+    "SNI": [
+      "ligate.vm.co.mz",
+      "api.prod.kuackmedia.com",
+      "internet.vm.co.mz"
+    ]
+  },
+  
+  {
+    "Country": "Mozambique",
+    "ISP": "Movitel",
+    "SNI": [
+      "img.zakelijkfinancieren-a1.blgwonen.nl",
+      "app.ubuntu.vm.co.mz"
+    ]
+  },
+  
+  
+  {
+    "Country": "Namibia",
+    "ISP": "MTC",
+    "SNI": [
+      "nofunds.mymtc.mobi"
+    ]
+  },
+  
+  
+  {
+    "Country": "Nigeria",
+    "ISP": "MTN New",
+    "SNI": [
+      "freckle.com",
+      "sa.edutechz.com.ng",
+      "treekle.ng",
+      "gtigrows.com",
+      "ncdc.gov.ng",
+      "mymtn.com.ng",
+      "mobucks.mtnbusiness.com.ng",
+      "ayoba.me",
+      "datareset-mtnonline.zerod.com.ng",
+      "www.globe.com.ph",
+      "ncdc.gov.ng.dropxj.org",
+      "covid19.ncdc.gov.ng",
+      "myschool.ng",
+      "www.arcademics.com",
+      "www.fmod.com",
+      "retroloves.co.uk"
+    ]
+  },
+  
+  {
+    "Country": "Nigeria",
+    "ISP": "GLO",
+    "SNI": [
+      "wowlotto.ng",
+      "winners.wowlotto.ng",
+      "www.defenceweb.co.za",
+      "104.26.11.147"
+    ]
+  },
+  
+  {
+    "Country": "Nigeria",
+    "ISP": "9Mobile",
+    "SNI": [
+      "www.app.mobihealthinternational.com",
+      "checkout.payfort.com",
+      "covid-19.ncdc.gov.ng"
+    ]
+  },
+  
+  {
+    "Country": "Nigeria",
+    "ISP": "Airtel",
+    "SNI": [
+      "myschool.ng",
+      "passnownow.com",
+      "www.who.int",
+      "script.crazyegg.com",
+      "engage2.mtnonline.com",
+      "nigeriahealthwatch.com",
+      "healthline.com",
+      "www.ceagslearn.nouedu.net",
+      "covid19.ncdc.gov.ng",
+      "www.health.gov.ng",
+      "internet.org"
+    ]
+  },
+  
+  {
+    "Country": "Nigeria",
+    "ISP": "Spectranet",
+    "SNI": [
+      "wowlotto.ng",
+      "82.113.101.180"
+    ]
+  },
+  
+  
+  {
+    "Country": "Rwanda",
+    "ISP": "MTN",
+    "SNI": [
+      "info.tescomobile.com",
+      "www.mtn.co.rw",
+      "moodles.ines.ac.rw",
+      "elearning.kp.ac.rw",
+      "elearning.chur.ac.rw",
+      "197.243.0.238:81/moodle/",
+      "elearning.auca.ac.rw"
+    ]
+  },
+  
+  
+  {
+    "Country": "South Africa",
+    "ISP": "MTN Unlimited",
+    "SNI": [
+      "ib.africanbank.co.za",
+      "scv5.africanbank.co.za"
+    ]
+  },
+  
+  {
+    "Country": "South Africa",
+    "ISP": "MTN",
+    "SNI": [
+      "www.greenshootsedu.co.za",
+      "onlinecms.mtn.co.za",
+      "blhs.co.za",
+      "cressy.co.za",
+      "regent.ac.za",
+      "campusconnect.uwc.ac.za",
+      "196.21.45.22",
+      "www.who.int",
+      "sacoronavirus.co.za",
+      "direct.capitecbank.co.za",
+      "gettheraiceheadreliefhat.io",
+      "www.communityneedles.com",
+      "www.departmentofeducation.co.za",
+      "dev.onlinecms.mtn.co.za",
+      "stg.deserve.com",
+      "s2sacademy.co.za"
+    ]
+  },
+  
+  {
+    "Country": "South Africa",
+    "ISP": "MTN Music Time",
+    "SNI": [
+      "www.simfy.co.za"
+    ]
+  },
+  
+  
+  {
+    "Country": "Tanzania",
+    "ISP": "Vodacom",
+    "SNI": [
+      "biokyc.vodacom.co.tz",
+      "jungletv.vdoapi.com",
+      "cdn-tanzania.marmot-cloud.com",
+      "vtv.co.tz",
+      "www.tigo.vo.tz.free",
+      "vtv-img.vdoapi.com",
+      "vodacom.co.tz"
+    ]
+  },
+  
+  {
+    "Country": "Tanzania",
+    "ISP": "Halotel",
+    "SNI": [
+      "www.af1234.com",
+      "162.159.129.86",
+      "162.159.130.11",
+      "162.159.128.86",
+      "paquetes.miclaro.com.gt"
+    ]
+  },
+  
+  
+  {
+    "Country": "Zambia",
+    "ISP": "Zamtel",
+    "SNI": [
+      "mobile.twitter.com",
+      "apps.zamtel.co.zm",
+      "iflix.com",
+      "pagamentonline.emis.co.ao",
+      "premium.outlook.com",
+      "monprofilorange.cd",
+      "172.105.125.80"
+    ]
+  },
+  
+  {
+    "Country": "Zambia",
+    "ISP": "MTN",
+    "SNI": [
+      "m.speedbit.com",
+      "167.71.98.242",
+      "mtnmobisite.mtnzambia.co.zm",
+      "viber.com",
+      "apps.mtn.zm"
+    ]
+  },
+  
+  
+  {
+    "Country": "Pakistan",
+    "ISP": "Zong",
+    "SNI": [
+      "m.pubgmobile.com",
+      "162.159.128.79",
+      "www.zong.com.pk",
+      "alijan.zong.com.pk",
+      "zbr.zong.com.pk",
+      "alijan.sg.phinfotech.net",
+      "192.168.42.254",
+      "community.snap.com",
+      "198.199.69.10",
+      "www.whatsapp.com",
+      "www.sdmrealtech.whatsapp.com",
+      "shah.g.zong.com.pk",
+      "127.0.0.1:1-65535"
+    ]
+  },
+  
+  
+  {
+    "Country": "India",
+    "ISP": "Vi",
+    "SNI": [
+      "main.mohfw.gov.in",
+      "myvi.in",
+      "bengali.indianexpress.com",
+      "connectivity.gstatic.com",
+      "unpkg.com"
+    ]
+  },
+  
+  {
+    "Country": "India",
+    "ISP": "New Jio",
+    "SNI": [
+      "kingofbug.zapto.org",
+      "104.18.35.85",
+      "cdn.rawgit.com",
+      "stats.ecitizen.go.ke",
+      "secure-acs2ui-bk2-indmum-mumrdc.wibmo.com",
+      "hpwolf.com",
+      "did.ecitizen.go.ke",
+      "www.stats.ecitizen.go.ke",
+      "rmnstage.com",
+      "wibmo.com"
+    ]
+  },
+  
+  
+  {
+    "Country": "Malawi",
+    "ISP": "Vodacom",
+    "SNI": [
+      "172.66.0.96",
+      "connectu.vodacom.cd"
+    ]
+  },
+  
+  {
+    "Country": "Malawi",
+    "ISP": "Airtel",
+    "SNI": [
+      "www.pdfdrive.com",
+      "91.220.208.30",
+      "www.edx.org"
+    ]
+  },
+  
+  {
+    "Country": "Malawi",
+    "ISP": "Africell",
+    "SNI": [
+      "premierbetzone.com",
+      "104.18.12.36",
+      "safefood.net",
+      "www.aerisroves.com"
+    ]
+  },
+  
+  {
+    "Country": "Malawi",
+    "ISP": "New SNI Test Net",
+    "SNI": [
+      "www.float.com",
+      "104.18.12.36",
+      "www.aerisroves.com",
+      "premierbetzone.com",
+      "app.ubuntu.vm.co.mz",
+      "singleview.airtel.cd",
+      "www.pdfdrive.com",
+      "openclassrooms.com",
+      "mumandbaby.vodacom.cd",
+      "www.winner.bet"
+    ]
+  }
+  
+  ]
