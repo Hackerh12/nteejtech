@@ -1,0 +1,72 @@
+#country-box {
+  width: 300px;
+  height: 40px;
+  border-radius: 20px;
+  display: block;
+  margin: 0px auto;
+  font-weight: bold;
+  color: white;
+  background: transparent;
+  border: 1px solid white;
+  text-align: center;
+}
+
+#generate-button {
+  display: block;
+  margin: 10px auto;
+  background: #5000ff;
+  height: 50px;
+  width: 150px;
+  font-weight: bold;
+  font-size: 17px;
+  border-radius: 7px;
+  border: 1px solid #7a00ff;
+  color: white;
+  cursor: pointer;
+}
+
+#generate-button:active {
+  background: #4700b3;
+}
+
+.result-box {
+  width: 290px;
+  height: auto;
+  padding: 20px;
+  display: block;
+  margin: 20px auto;
+  background: transparent;
+  border: 1px solid #6500ff;
+  border-radius: 15px;
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.result-box p {
+  margin: 10px 0;
+}
+
+.result-box p strong {
+  color: #ffcc00;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.result-box p:nth-child(1) {
+  font-size: 15px;
+  font-weight: bold;
+  color: white; /* ISP Name Color */
+}
+
+.result-box p:nth-child(2) {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.result-box p:nth-child(3) {
+  font-size: 15px;
+  color: white;
+  font-weight: bold;
+}
