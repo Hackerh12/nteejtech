@@ -13,6 +13,15 @@ const videoData = [
         href: 'w.n.m',
         title: 'Facebook phishing page👿',
         
+    },
+
+    {
+        id: 3,
+        thumbnail: 'assets/images/new-sni.jpg',
+        duration: '2:22',
+        href: 'w.n.m',
+        title: 'New SNI bug generator and test it for free internet with HA tunnel 2024',
+        
     }
     ];
    
