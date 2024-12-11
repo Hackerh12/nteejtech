@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404 Not Found - NTEEJ TECH</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="error-container">
+        <div class="error-animation">
+            <h1 class="error-title">404</h1>
+            <p class="error-message">Oops! The page you're looking for doesn't exist.</p>
+            <a href="index.html" class="error-btn">Go Back Home</a>
+        </div>
+    </div>
+    
+   <style>
+       
+       body {
+           background: #0d1117;
+       }
+       
+       /* 404 Page Styling */
+.error-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #0d1117; /* Dark background */
+    color: #fff;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+}
+
+.error-animation {
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+.error-title {
+    font-size: 6rem;
+    font-weight: bold;
+    text-shadow: 0 0 20px #00d1ff, 0 0 30px #00d1ff;
+}
+
+.error-message {
+    font-size: 1.5rem;
+    margin: 20px 0;
+    color: #ccc;
+}
+
+.error-btn {
+    display: inline-block;
+    padding: 15px 30px;
+    font-size: 1rem;
+    color: #fff;
+    background: #00d1ff;
+    border-radius: 25px;
+    text-decoration: none;
+    transition: background 0.3s ease, transform 0.2s ease;
+}
+
+.error-btn:hover {
+    background: #007bbd;
+    transform: scale(1.1);
+}
+
+/* Fade-in Animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+   </style>
+    
+</body>
+</html>
