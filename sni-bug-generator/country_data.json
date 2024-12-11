@@ -18,7 +18,7 @@
   
   {
     "Country": "Zimbabwe",
-    "ISP": "Econet",
+    "ISP": "Econet New Test",
     "SNI": [
       "corporate.latamairlines.com",
       "172.66.0.156",
@@ -113,7 +113,7 @@
   
   {
     "Country": "Algeria",
-    "ISP": "Random",
+    "ISP": "New updates",
     "SNI": [
       "ensmm-algeria.dz",
       "www.jwplayer.com",
@@ -737,6 +737,28 @@
       "mumandbaby.vodacom.cd",
       "www.winner.bet"
     ]
+  },
+
+
+  
+  {
+    "Country": "Ivory Coast",
+    "ISP": "New updates",
+    "SNI": [
+      "https://www.dimetime10.com",
+      "https://mobileapi.zaincash.iq",
+      "https://i.ayo.ba",
+      "https://account.mybusinesscloud.orange.ci",
+      "https://africa-west1-proxy-registry.cloud.orange.ci",
+      "https://api.africa-west1-dns.cloud.orange.ci",
+      "https://docs.cloud.orange.ci",
+      "openclassrooms.com",
+      "https://live-ss.orange.ci",
+      "www.winner.bet"
+    ]
   }
+
+
+  
   
   ]
