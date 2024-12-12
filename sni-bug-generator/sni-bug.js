@@ -1,1 +1,61 @@
-</p>\x0a\x20\x20\x20\x20\x20\x20\x20\x20';})['catch'](_0x3a4151=>{const _0x1e9742=_0x4218f3;console[_0x1e9742(0xc6)](_0x1e9742(0xb8),_0x3a4151),document['getElementById'](_0x1e9742(0xce))['innerHTML']=_0x1e9742(0xc5);});}));function _0x496a(){const _0x50ca77=['<br>','4800606aDmmrw','170ffmHYi','</p>','filter','\x0a\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22color:\x20red;\x20font-weight:\x20bold;\x22>An\x20error\x20occurred\x20while\x20fetching\x20data!</p>\x0a\x20\x20\x20\x20\x20\x20','error','2355760WwFjjA','Error\x20loading\x20countries.json:','join','click','24KFbkAa','sni-bug-generator/countries.json','value','result-box','<p><strong>','addEventListener','206444qJLfDG','forEach','10111hHzdse','country-box','</strong>:</p>','innerHTML','catch','\x0a\x20\x20\x20\x20\x20\x20<p\x20style=\x22color:\x20red;\x20font-weight:\x20bold;\x22>Please\x20select\x20a\x20country!</p>\x0a\x20\x20\x20\x20','Country','getElementById','then','sni-bug-generator/country_data.json','<p>','7690572GboagN','generate-button','length','<p>SNIs\x20for\x20<strong>','textContent','SNI','Error\x20loading\x20country_data.json:','94LCkKjX','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<p\x20style=\x22color:\x20red;\x20font-weight:\x20bold;\x22>NO\x20SNI\x20FOUND\x20FOR!!!\x20<nav\x20style=\x22color:\x20yellow\x22>','82332uEHhfy','2592357UqmOJO',':</strong></p>','5mAiFVT','json'];_0x496a=function(){return _0x50ca77;};return _0x496a();}
+
+// Load countries from countries.json and populate the dropdown
+fetch('sni-bug-generator/countries.json')
+  .then(response => response.json())
+  .then(countries => {
+    const countryBox = document.getElementById("country-box");
+
+    // Populate dropdown with country names
+    countries.forEach(country => {
+      const option = document.createElement("option");
+      option.value = country;
+      option.textContent = country;
+      countryBox.appendChild(option);
+    });
+  })
+  .catch(error => console.error("Error loading countries.json:", error));
+
+// Handle Generate button click
+document.getElementById("generate-button").addEventListener("click", () => {
+  const selectedCountry = document.getElementById("country-box").value;
+
+  if (!selectedCountry) {
+    // Show error if no country is selected
+    document.getElementById("result-box").innerHTML = `
+      <p style="color: red; font-weight: bold;">Please select a country!</p>
+    `;
+    return;
+  }
+
+  // Fetch country-specific SNI data from country_data.json
+  fetch('sni-bug-generator/country_data.json')
+    .then(response => response.json())
+    .then(data => {
+      // Filter data for the selected country
+      const countryData = data.filter(item => item.Country === selectedCountry);
+
+      if (countryData.length > 0) {
+        // Generate and display SNI data grouped by ISP
+        let resultHTML = `<p>SNIs for <strong>${selectedCountry}</strong>:</p>`;
+        countryData.forEach(item => {
+          resultHTML += `<p><strong>${item.ISP}:</strong></p>`;
+          resultHTML += `<p>${item.SNI.join('<br>')}</p>`;
+        });
+
+        document.getElementById("result-box").innerHTML = resultHTML;
+      } else {
+        // No data available for the selected country
+        document.getElementById("result-box").innerHTML = `
+          <p style="color: red; font-weight: bold;">NO SNI FOUND FOR!!! <nav style="color: yellow">${selectedCountry}!</nav></p>
+        `;
+      }
+    })
+    .catch(error => {
+      console.error("Error loading country_data.json:", error);
+      document.getElementById("result-box").innerHTML = `
+        <p style="color: red; font-weight: bold;">An error occurred while fetching data!</p>
+      `;
+    });
+});
+
+//
