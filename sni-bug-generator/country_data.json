@@ -756,7 +756,43 @@
       "https://live-ss.orange.ci",
       "www.winner.bet"
     ]
-  }
+  },
+
+
+  {
+  "Country": "Uganda",
+  "ISP": "New updates",
+  "SNI": [
+    "64.176.183.121",
+    "104.16.51.111",
+    "www.adge.com",
+    "ncpwd.fuzu.com",
+    "www.airtel.co.ug",
+    "syn1-gateway.ezyagric.com",
+    "136.175.8.99:1-65535",
+    "otrovi.com",
+    "www.adge.com [unlimited]",
+    "adminsports.net",
+    "watch.yotvchannels.com",
+    "classlight.com",
+    "thewiredshopper.com",
+    "maxcdn.bootstrapcdn.com",
+    "apo.who.int",
+    "padlet.com",
+    "connectivitycheck.gstatic.com",
+    "170.114.52.2"
+  ]
+},
+  
+{
+  "Country": "Haiti",
+  "ISP": "New updates",
+  "SNI": [
+    "support-ht.digicelgroup.com",
+    "digicelgroup.com",
+    "digicelfoundation.org"
+  ]
+}
 
 
   
