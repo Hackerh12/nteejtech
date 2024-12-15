@@ -371,17 +371,27 @@
     ]
   },
   
-  {
-    "Country": "Kenya",
-    "ISP": "Airtel",
-    "SNI": [
-      "kycagile.airtelkenya.com",
-      "104.18.8.127",
-      "portal.ncnd.vodacom.co.tz",
-      "africanstorybook.org"
-    ]
-  },
-  
+{
+  "Country": "Kenya",
+  "ISP": "Airtel New ones",
+  "SNI": [
+    "africanstorybook.org",
+    "edraak.org",
+    "khanacademy.org",
+    "edx.org",
+    "moodle.com",
+    "nafham.com",
+    "learningequality.org",
+    "syafunda.co.zm",
+    "digital-campus.org",
+    "leaphealthmobile.com",
+    "classera.com",
+    "m-shule.com",
+    "internetofgoodthings.org",
+    "elearning.longhornpublishers.com"
+  ]
+},
+
   {
     "Country": "Kenya",
     "ISP": "Telkom",
@@ -458,6 +468,22 @@
     ]
   },
   
+  
+  
+{
+  "Country": "Nigeria",
+  "ISP": "New Zero Rated Sites",
+  "SNI": [
+    "who.int",
+    "nigeriahealthwatch.com",
+    "ncdc.gov.ng",
+    "healthline.com",
+    "www.ceagslearn.nouedu.net",
+    "covid19.ncdc.gov.ng",
+    "www.health.gov.ng",
+    "internet.org"
+  ]
+},  
   
   {
     "Country": "Nigeria",
@@ -544,6 +570,71 @@
       "elearning.auca.ac.rw"
     ]
   },
+  
+  
+ {
+  "Country": "South Africa",
+  "ISP": "New Ones",
+  "SNI": [
+    "malutitvet.co.za",
+    "www.careersportal.co.za",
+    "www.carrers24.com",
+    "journals.co.za",
+    "wolkschool.co.za",
+    "sacoronavirus.co.za",
+    "direct.capitecbank.co.za",
+    "ecexams.co.za",
+    "smeasy.co.za",
+    "onlinecms.mtn.co.za",
+    "switchonbenefits.com",
+    "acomeducation.org.za",
+    "milpark.ac.za",
+    "s2sacademy.co.za",
+    "myembury.embury.ac.za",
+    "waze.com",
+    "mathsandsciencelessons.com",
+    "moodle-campus.embury.ac.za",
+    "www.homechoice.co.za"
+  ]
+},
+
+{
+  "Country": "South Africa",
+  "ISP": "New Vodacom",
+  "SNI": [
+    "smeasy.co.za",
+    "onlinecms.mtn.co.za",
+    "switchonbenefits.com",
+    "sacoronavirus.co.za",
+    "acomeducation.org.za",
+    "milpark.ac.za",
+    "s2sacademy.co.za"
+  ]
+},
+
+{
+  "Country": "South Africa",
+  "ISP": "New CellC",
+  "SNI": [
+    "104.16.116.36",
+    "myembury.embury.ac.za",
+    "172.67.187.248",
+    "waze.com",
+    "104.26.14.192"
+  ]
+},
+
+{
+  "Country": "South Africa",
+  "ISP": "Telkom",
+  "SNI": [
+    "firstcommunitycuhb.com",
+    "mathsandsciencelessons.com",
+    "moodle-campus.embury.ac.za",
+    "finance-app.itunes.apple.com",
+    "www.homechoice.co.za"
+  ]
+}, 
   
   
   {
@@ -674,23 +765,7 @@
     ]
   },
   
-  {
-    "Country": "India",
-    "ISP": "New Jio",
-    "SNI": [
-      "kingofbug.zapto.org",
-      "104.18.35.85",
-      "cdn.rawgit.com",
-      "stats.ecitizen.go.ke",
-      "secure-acs2ui-bk2-indmum-mumrdc.wibmo.com",
-      "hpwolf.com",
-      "did.ecitizen.go.ke",
-      "www.stats.ecitizen.go.ke",
-      "rmnstage.com",
-      "wibmo.com"
-    ]
-  },
-  
+ 
   
   {
     "Country": "Malawi",
