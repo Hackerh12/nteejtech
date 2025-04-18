@@ -46,7 +46,7 @@ document.getElementById("generate-button").addEventListener("click", () => {
       } else {
         // No data available for the selected country
         document.getElementById("result-box").innerHTML = `
-          <p style="color: red; font-weight: bold;">NO SNI FOUND FOR!!! <nav style="color: yellow">${selectedCountry}!</nav></p>
+          <p style="color: red; font-weight: bold;">NO SNI FOUND FOR!!! <nav style="color: #00ff18">${selectedCountry}!</nav></p>
         `;
       }
     })
