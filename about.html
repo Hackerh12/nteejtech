@@ -3,26 +3,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About - NTEEJ TECH</title>
+    <title>About -Dr NTEEJ</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
         <nav id="dp-box">
             <a href="index.html">
-                <img src="./assets/icon/nteej-logo.png" width="110" height="110" class="nteejlogo" alt="Nteej Tech Logo">
+                <img src="./assets/icon/nteej-logo.png" width="110" height="110" class="nteejlogo" alt="Nteej Logo">
             </a>
         </nav>
     </header>
     
     <main class="about-section">
-        <h1>About NTEEJ TECH</h1>
+        <h1>About Dr NTEEJ</h1>
         <p>
-            Welcome to <strong>NTEEJ TECH</strong>, your ultimate destination for innovative tech solutions. 
+            Im <strong>Dr Nteej</strong>, your ultimate destination for innovative tech solutions. 
             We specialize in providing cutting-edge tools and services, including SNI bug generator, VPN servers, ethical hacking techniques, WhatsApp bots, hosting solutions, and much more. 
         </p>
         <p>
-            At NTEEJ TECH, our mission is to empower developers and businesses by delivering powerful tools, comprehensive tutorials, and secure tools to elevate their projects and applications. 
+             Our mission is to empower developers and businesses by delivering powerful tools, comprehensive tutorials, and secure tools to elevate their projects and applications. 
             Our vision is to drive innovation and simplify complex tech challenges for everyone, from tech enthusiasts to seasoned professionals.
         </p>
         <section class="key-offerings">
@@ -37,6 +37,34 @@
             </ul>
         </section>
         
+        
+        
+    <!--  MESSAGE SENDER   -->
+
+
+<div class = "msg-container">
+        <h2 style="position: relative; top: ; color: white">Send me a WhatsApp Message</h2>
+        <textarea id="message" placeholder="Type your message here..."></textarea>
+        <button id="send-btn" onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        function sendMessage() {
+            const phoneNumber = "+263774638594"; // Replace with your WhatsApp number
+            const message = document.getElementById("message").value.trim();
+
+            if (message) {
+                const whatsappURL = `https://wa.me/${phoneNumber}?text=${encodeURIComponent(message)}`;
+                window.open(whatsappURL, "_blank");
+            } else {
+                alert("Please enter a message before sending.");
+            }
+        }
+    </script>
+
+        
+        
+        
         <section class="contact-info">
             <h2>Contact Us</h2>
             <p>If you have any questions, feel free to reach out:</p>
@@ -46,7 +74,7 @@
     </main>
     
     <footer>
-        <p>&copy; 2024 NTEEJ TECH. All rights reserved.</p>
+        <p>&copy; 2024 Dr Nteej. All rights reserved.</p>
     </footer>
     
   <style>
@@ -121,6 +149,43 @@ footer {
     background: #161b22;
     border-top: 1px solid #333;
 }
+
+
+  .msg-container {
+            background: black;
+            padding: 20px;
+            border-radius: 10px;
+            border: 1px solid #25d366;
+    
+            width: 250px;
+            text-align: center;
+            display: block;
+            margin: 0px auto;
+        }
+    
+         textarea {
+            width: 90%;
+            height: 120px;
+            margin: 10px 0;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            font-size: 16px;
+        }
+        
+        #send-btn {
+            background-color: #25d366;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            font-size: 16px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        
+       #send-btn:active {
+            background-color: #20b259;
+        }
   </style>
     
     
